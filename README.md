@@ -1,4 +1,4 @@
-# Parcial 3 - Proyecto
+# Parcial 3 - Servicios Telematicos
 
 Este repositorio contiene el proyecto completo.  
 La documentación detallada se encuentra en [`/documentación`](./documentación/README.md).
